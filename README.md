@@ -1,2 +1,1 @@
-# seed-lab
-Packet Sniffing and Spoofing Lab
+# Packet Sniffing and Spoofing Lab By The SEED Project.
